@@ -19,3 +19,6 @@ int main(){
     mhs.nim = 2025;
     mhs.nama =  "Reyy";
     mhs.nilai = 90.5;
+
+    mhs.printData();
+}
